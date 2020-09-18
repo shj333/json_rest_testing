@@ -1,6 +1,6 @@
 {
   "login": [
-    { "username": "stuart", "password": "password", "port": 1 }
+    { "id": 1, "username": "stuart", "password": "password", "port": 1 }
   ],
   "posts": [
     { "id": 1, "title": "Post 1x" },
