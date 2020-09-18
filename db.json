@@ -2,6 +2,11 @@
   "login": [
     { "id": 1, "username": "stuart", "password": "password", "port": 1 }
   ],
+  "webscripts": [
+    { "id": 1, "name": "nieslen script 1" },
+    { "id": 2, "name": "nieslen script 2" },
+    { "id": 3, "name": "ast script 1" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1x" },
     { "id": 2, "title": "Post 2x" },
