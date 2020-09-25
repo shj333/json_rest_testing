@@ -3,7 +3,7 @@
     { "id": 1, "username": "stuart", "password": "password", "port": 1 }
   ],
   "webscripts": [
-    { "id": 1, "name": "DDG" },
+    { "id": 1, "name": "DDG", , "qids": ["MLIST_FOOD", "ROOMS", "EXIT", "SHOPPING", "SUSPECTS"] },
     { "id": 2, "name": "DEMO1_R5" },
     { "id": 3, "name": "FIDELITY_PIB" },
     { "id": 4, "name": "JSP_R5" },
