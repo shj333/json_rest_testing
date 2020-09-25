@@ -4,7 +4,7 @@
   ],
   "webscripts": [
     { "id": 1, "name": "DDG", "qids": ["MLIST_FOOD", "ROOMS", "EXIT", "SHOPPING", "SUSPECTS"] },
-    { "id": 2, "name": "DEMO1_R5" },
+    { "id": 2, "name": "DEMO1_R5", "qids": ["TA_MC", "TA_MN", "FOOD", "EXIT", "MAIN_MENU"] },
     { "id": 3, "name": "FIDELITY_PIB" },
     { "id": 4, "name": "JSP_R5" },
     { "id": 5, "name": "PCH" },
