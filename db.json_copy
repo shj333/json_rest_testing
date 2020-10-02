@@ -11,6 +11,9 @@
     { "id": 6, "name": "SMS_WEB" },
     { "id": 7, "name": "TPT" }
   ],
+  "qids": [
+    { "id": "TA_SC", "name": "TA_SC", "qidType": 1, "nextDefault": "MAIN_MENU", "singleColumn": true, "text": "This is a single choice", "choices": [{ "text": "Africa" }, { "text": "America" }, { "text": "Europe" }] }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1x" },
     { "id": 2, "title": "Post 2x" },
